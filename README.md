@@ -1,5 +1,5 @@
 # My Profile
-English|[简体中文](/README-ZH-CN.md)|[繁体中文](/README-ZH-TW.md)
+English|[简体中文](/README-ZH-CN.md)|[繁體中文](/README-ZH-TW.md)
 ### Introduction
  - My name's Tang Yuhan.
  - I'm a middle school student from Jilin, China.
