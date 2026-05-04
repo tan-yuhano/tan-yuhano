@@ -2,7 +2,7 @@
 English|[简体中文](/README-ZH-CN.md)|[繁体中文](/README-ZH-TW.md)
 ### Introduction
  - My name's Tang Yuhan.
- - I'm a middle school student from Jinlin, China.
+ - I'm a middle school student from Jilin, China.
  - I'm in Grade 7 now.
 ### Hobby
  - I like to write something interesting by C++.
