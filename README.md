@@ -1,5 +1,5 @@
 # My Profile
-see the chinese version👉[click](/README-ZH-CN.md)
+English|[简体中文](/README-ZH-CN.md)|[繁体中文](/README-ZH-TW.md)
 ### Introduction
  - My name's Tang Yuhan.
  - I'm a middle school student from Jinlin, China.
@@ -12,5 +12,5 @@ see the chinese version👉[click](/README-ZH-CN.md)
  - X account:[@Yuhano_go](https://x.com/Yuhano_go)
  - Discord:[@Yuhano_go](https://discord.com/channels/@me)
 ### ブルーアーカイブ
- - My Friend Code is `BUAKLPDN`.
+ - My friend code is `BUAKLPDN`.
  - My uid is `82867809`.
