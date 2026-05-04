@@ -1,12 +1,12 @@
 # 我的个人资料
-查看英文版👉[点击](/README.md)
+[English](/README.md)|简体中文|[繁体中文](/README-ZH-TW.md)
 ### 自我介绍
 - 我叫唐宇涵。
 - 我来自中国吉林，是一名初中生。
 - 我现在读七年级。
 ### 爱好
 - 我喜欢用 C++ 写一些有趣的东西。
-- 我喜欢玩《ブルーアーカイブ》。
+- 我爱玩《蔚蓝档案》。
 ### 联系方式
 - 邮箱：[tangyuhan820@outlook.com](tangyuhan820@outlook.com)
 - X 账号：[@Yuhano_go](https://x.com/Yuhano_go)
