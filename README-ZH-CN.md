@@ -1,5 +1,5 @@
 # 我的个人资料
-[English](/README.md)|简体中文|[繁体中文](/README-ZH-TW.md)
+[English](/README.md)|简体中文|[繁體中文](/README-ZH-TW.md)
 ### 自我介绍
 - 我叫唐宇涵。
 - 我来自中国吉林，是一名初中生。
